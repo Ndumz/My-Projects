@@ -1,2 +1,2 @@
 # My-Projects
-Some Projetcs I do throught the year
+These are some of the personal projects I do , to further my skills and just have. Hopedully they can have som value to you
